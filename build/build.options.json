@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "../..,../..,../..",
+  "builtInLibrariesFolders": "/Applications/Arduino.app/Contents/Java/libraries",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "Seeeduino:samd:seeed_XIAO_m0:usbstack=arduino,debug=off,sercom4=include",
+  "hardwareFolders": "/Users/caleb/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/caleb/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/caleb/Documents/Robots/Bots/KissKissBangBang Mk2/KKBB2Software/KKBB2Software.ino"
+}
