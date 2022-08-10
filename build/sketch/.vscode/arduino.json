@@ -1,8 +1,0 @@
-#line 1 "/Users/caleb/Documents/Robots/Bots/KissKissBangBang Mk2/KKBB2Software/.vscode/arduino.json"
-{
-    "sketch": "KKBB2Software.ino",
-    "output": "build",
-    "configuration": "usbstack=arduino,debug=off,sercom4=include",
-    "board": "Seeeduino:samd:seeed_XIAO_m0",
-    "port": "/dev/tty.usbmodem2101"
-}
